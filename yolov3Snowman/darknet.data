@@ -1,0 +1,7 @@
+classes = 1
+
+train  = /home/ron/Robosub/yolov3_snowman/learnopencv/YOLOv3-Training-Snowman-Detector/snowman_train.txt
+valid  = /home/ron/Robosub/yolov3_snowman/learnopencv/YOLOv3-Training-Snowman-Detector/snowman_test.txt
+names = /home/ron/Robosub/yolov3_snowman/learnopencv/YOLOv3-Training-Snowman-Detector/classes.names
+backup = /home/ron/Robosub/yolov3_snowman/learnopencv/YOLOv3-Training-Snowman-Detector/weights/
+
